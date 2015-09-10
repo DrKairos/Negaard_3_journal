@@ -1,0 +1,9 @@
+These are the steps to put a file in your directory.
+
+1. Make the file
+2. Add the file
+3. Commit the file
+4. Push the file
+5. Done
+
+
