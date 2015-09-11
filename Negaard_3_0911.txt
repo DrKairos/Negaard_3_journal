@@ -1,0 +1,5 @@
+What is pseudo code? - What is it good for? - Why will we use it?
+1. A description of an operating principle of a computer program or algorithm.
+2. It's good for helping you understand code.
+3. So we can translate coding language
+
