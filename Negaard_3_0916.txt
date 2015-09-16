@@ -1,0 +1,21 @@
+What are the three guiding rules/principles for this class?
+1. Tinker
+2. No electronics
+3. Ask for help
+
+What does that look like in practice?
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+We learn to study hard and how to problem solve.
+
+Imagine, a student encounters a problem, a command is not working,
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Describe the problem solving process.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Define the problem, generate a solution, decide the course of action, implement the solution, evaluate the solution.
+
+What is the underlying motivation for this process?
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+How does it relate to the research of Perkins et al. ?
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
