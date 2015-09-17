@@ -1,0 +1,6 @@
+What are five different Java data types? What are they used for?
+1. Int
+2. Float
+3. Boolean
+4. String
+5. Double
