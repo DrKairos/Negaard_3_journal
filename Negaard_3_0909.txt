@@ -1,0 +1,1 @@
+Yesterday, we worked on setting up a git directory.
