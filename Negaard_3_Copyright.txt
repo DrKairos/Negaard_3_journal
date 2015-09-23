@@ -8,3 +8,13 @@ Public Domain - The state of being available to the public as a whole and not su
 File-sharing - The ability to move files over a network.
 Piracy  - The act of taking someone else's work illegally. 
 Plagarism - The act of taking someone else's work and claiming them as your own.
+Infringement - Breaking a law.
+Proprietary - Having ownership of something.
+Open Source - Software that is made available.
+GNU GPL - Widely used free software license, which guarantees end users the freedom to run, study, share, and modify the software.
+License - A permit from an authority to own or use something.
+MIT License - Free software license that allows reuse of software.
+Apache License - A free software license written by the Apache Software Foundation 
+EULA - Legal contract between a developer and the user of the software.
+Creative Commons - Nonprofit organization that allows the sharing and use of software.
+
