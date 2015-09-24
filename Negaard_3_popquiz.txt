@@ -1,0 +1,3 @@
+A MIT License is a free software license that allows the reuse of software. An Apache License is a free software license written by the Apache Software Foundation.
+
+We will be using the MIT License.
