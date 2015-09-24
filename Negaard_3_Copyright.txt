@@ -18,3 +18,6 @@ Apache License - A free software license written by the Apache Software Foundati
 EULA - Legal contract between a developer and the user of the software.
 Creative Commons - Nonprofit organization that allows the sharing and use of software.
 
+1. I have seen this license on Mac.
+2. It is saying 
+3.
