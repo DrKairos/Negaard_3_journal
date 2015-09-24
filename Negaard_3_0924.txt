@@ -1,0 +1,3 @@
+Why did Steve Ballmer call the GPL a virus?
+
+Steve Ballmer thought that the GPL would make all of your other software an open source.
