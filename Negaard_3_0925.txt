@@ -1,0 +1,10 @@
+Paid license - A sum paid to use a copyrighted item, such as a photograph or logo, that is owned by someone else. 
+Shareware - Software that is available for free and distributed for evaluation and will be feed if it's used.
+Trialware - Software that can be run for a limited period of time before it expires.
+Ad-ware - Software that automatically displays or downloads advertising material. 
+Crippleware - Software distributed as a free version of a paid software, once you pay the price you get the fully functional version. 
+Freemium - A pricing strategy where a product is free but money can get you extra things.
+FreeWare (vs Free-OpenSource) - Software that is available free of charge.
+Richard Stallman - Is a software freedom activist and computer programmer.
+Lawrence Lessig - Is an American academic, lawyer, political activist, and a candidate for President of the United States.
+Eben Moglen - Is a professor of law and legal history at Columbia University, and is the founder of Software Freedom Law Center.
