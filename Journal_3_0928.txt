@@ -1,0 +1,11 @@
+How can you count in Java?
+
+1. You use for loops to count in Java.
+
+How can you check to see if a number is divisible?
+
+2. Do the % sign next to the number.
+
+How can you track if a number has a divisor?
+
+3. 
