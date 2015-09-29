@@ -1,0 +1,5 @@
+What are methods?
+A method is a set of code which is referred to by name.
+
+What are they good for?
+When you need to do something mutiple times.
