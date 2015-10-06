@@ -1,0 +1,8 @@
+What are methods?
+Like a little program.
+What are classes?
+Things that define a program.
+What is an instance?
+An object.
+What are class methods?
+A method on a class.
