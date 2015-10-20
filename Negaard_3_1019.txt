@@ -1,0 +1,12 @@
+1. Are you? Why or why not?
+Yes.
+2. This is a real question -- describe what you did the days we went over art methods. What did you write? type? What were your thoughts?
+I took notes and typed out the examples. I thought it was cool.
+3. Did you notice that art method code was shared in the journals (as proclaimed with very large text)? Why or why not?
+Yes
+4. Have you examined the sample code on github? Why or why not?
+Yes, so I could get a general idea of what I am doing.
+5. Write a sample method for making a sequence of red squares on the canvas.
+ private void drawSomeCircle(GraphicsContext gc, int x, int y, int d){
+        gc.setFill(Color.DARKGREEN);
+        gc.fillRect(x, y, d, d);

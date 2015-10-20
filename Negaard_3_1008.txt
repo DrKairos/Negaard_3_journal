@@ -1,0 +1,10 @@
+What are your tentative thoughts / plans for your art project?
+I would like to make something cool.
+What might be methods you will use?
+Methods that draw shapes.
+How might you incorporate a for loop?
+To make patterns.
+How might you incorporate, if, else if, else?
+If something = something then draw this.
+What math might you use? 
+Addition.
