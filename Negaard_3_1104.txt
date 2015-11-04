@@ -1,0 +1,11 @@
+1. What is a method?
+A method is a programmed procedure that is defined as part of a class and included in any object of that class. A class can have more than one method.
+
+2. Which methods did you use and how did you use them in your guessing game program? 
+I used one method, it was the actual part of the game, it mae the game set a random number and allowed the player to play/guess a number.
+
+3. What is a while loop?
+A while loop is a control flow statement that allows code to be executed repeatedly based on a given boolean condition. The while loop can be thought of as a repeating if statement.
+
+4. How did you use a while loop, boolean, and counter in your guessing game?
+I used the while loop to keep runing the game, boolean was used to run the while too and boolean was used to run the while loop, and boolean remained true as long as the counter was above 0.
