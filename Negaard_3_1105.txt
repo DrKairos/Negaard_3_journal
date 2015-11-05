@@ -1,0 +1,6 @@
+What are strings? What are they good for?
+Strings are variables that hold characters and sentences. 
+What are some string methods?
+They hold they variable value of Setence that you may need to use.
+How do we identify string methods?
+We assign them a string.
