@@ -1,0 +1,7 @@
+1. In your game, what challenges must your player solve?
+The player will defeat monsters as they progress through the dungeon.
+
+2. How will you specifically track whether they have been solved?
+
+
+3. Provide variable names and types. Classes if applicable.
