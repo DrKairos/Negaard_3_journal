@@ -1,0 +1,5 @@
+1. How will I use loops in my game?
+I will use loops for fights and encounters that take more that one turn.
+
+2. How will I use methods?	
+The entire game will be made of methods.
