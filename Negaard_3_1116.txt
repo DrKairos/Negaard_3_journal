@@ -1,0 +1,7 @@
+1. How will you use methods in your game? Why?
+I will use methods by tracking what the player does.
+
+2. What values will you pass to them.
+None.
+
+
