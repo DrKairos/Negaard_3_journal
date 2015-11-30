@@ -1,0 +1,6 @@
+1. Is your guessing game a game? Why or why not?
+Yes, because it creates a random number every time and you have to guess it.
+   
+2.  What would make it better?
+Adding difficulty levels.
+
