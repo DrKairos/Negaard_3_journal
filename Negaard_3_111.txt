@@ -1,0 +1,4 @@
+1. What slick game will you create?
+A dungeon where you have to go save/collect all the cats.
+2. What challenges have you faced / are you facing with your slick game?
+Replacing the potions with cats. Hitboxes.
