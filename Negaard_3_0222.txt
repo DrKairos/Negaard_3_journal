@@ -1,0 +1,1 @@
+I should be ready for the test. I need to figure out how to make multiple levels, I think I understand it. I have the class for the enemy but he isn't showing up so I have to figure that out. Making traps shouldn't be too hard. Same with scoring, won't be hard to make. Making an inventory might take a little while.
