@@ -1,0 +1,57 @@
+1. How do we make a class?
+	Public class Donut {
+
+}
+
+2. Donut Bismarck = new Donut();
+Is this a class constructor?
+No, it's creating another Donut - it's calling the class constructor, with Donut();
+ 
+3. How do we make a class with values and a class constructor?
+	Public class Breakfast {
+		boolean hasEggs;
+		int numOfEggs;
+		boolean hasBacon;
+		boolean hasOrangeJuice;
+		int sliceOfBacon;
+
+		Breakfast(int a, int b, int c, boolean d, boolean e, boolean f); {
+			this.numOfEggs = a;
+			this.slicesOfBacon =b;
+			this.hasEggs = c;
+			this.hasBacon = d;
+			this.hasOrangeJuice = e;
+	}
+}
+
+	//A getter gets things, namely in Java and oop
+	//A getter is usually publicso that it can return private
+	//Values, a getter for slices of bacon tells other classes 
+	//How many slices of bacon	
+	
+	public int getSlicesOfBacon() {
+		return this.slicesOfBacon;
+	}
+
+	//A getter returns a value, by contrast, a setter sets values.
+	//For example, to set whether we have orange juice.	
+
+	public void setHasOrangeJuice(boolean a) {
+		this.hasOrangeJuice = a;
+	 }
+}
+
+4. An array of Breakfast
+int[] numbers; //this is an array of numbers
+char[] characters; //this is an array of chars
+boolean[][]; //this is a 2D array of booleans
+
+Breakfast eliBreakfast = new Breakfast(2, 4, true, true, true);
+Breakfast[] eliBreakfast = {eliBreakfast}; 
+
+5. Using getters and setters
+eliBreakfast.setSlicesOfBacon(12);
+
+
+6. Getter
+eliBreakfast.getHasOrangeJuice();
