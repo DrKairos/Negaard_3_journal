@@ -1,0 +1,8 @@
+1. What did you miss?
+Mostly everything besides the stuff I knew.
+
+2. What could you have done to have been more successful?
+Understood arrays better and how to create them/set them up. Getters and Setters I didn't know either.
+
+3. If you were successful - what was it that you did that made you successful?
+Studied
