@@ -1,0 +1,12 @@
+Describe the progress you have made on your project.
+
+What have you done?
+I setup the arduino board so Colby could add the LED's into a row and use the code to make them light up.
+What do you need to do?
+We need a bigger board and some more LED's
+What will you be able to turn in on Friday?
+A board with some LED's that light up when you push the buttons.
+What code changes are you writing?
+Making it so we can have more LED's on the board and so they light up in the right order when you push the buttons
+What functions have you created?
+None
