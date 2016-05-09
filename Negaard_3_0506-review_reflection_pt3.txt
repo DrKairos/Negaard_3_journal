@@ -1,0 +1,27 @@
+Line #a 
+if (i = 0){ System.out.print("8888");
+The beginning of the line is 8888. i is x
+
+Line #b 
+System.out.print(map[i][j]);
+This prints whatever is on the map array if it is an x
+
+Line #c
+System.out.println(".");
+This one is .println so it starts the next line when it is at the x limit
+e is only .print so no newline
+
+Line #d 
+System.out.println(map[i][j]);
+This prints the player when they are on a map edge
+
+Explain how to use a boolean with a while loop
+You can have a boolean called "example", and in the main method, put the input->grid loop in a while loop so it keeps running while the boolean is true, so you can make it false to  end the game.
+
+Explain the use of static
+A static class or variable is the same across the entire program, so if you change it in one place it is changing it everywhere else too.
+
+Provide an example of how you could use an object with your game
+You could use an object for enemy to make it easier to have a lot of them
+
+
