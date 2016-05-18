@@ -1,0 +1,33 @@
+Explain casting: Upcasting is getting more general, downcasting is getting more specific.
+
+Give a specific code example for up-casting.
+
+1. 
+
+int I;
+float F;
+F = 2;
+I = F;
+
+Give a specific code example for down-casting
+
+2.
+
+Dog d1 = new Dog();
+Animal a= d1;
+Dog d2 = (Dog) a;
+
+Give a specific code example for converting a char to a String.
+
+3.
+
+char e;
+(String) e;
+
+What is the range of values for byte? Why?
+
+4.
+
+-128 to 127
+Bytes only have 8 bits, range of 255
+
