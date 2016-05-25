@@ -1,0 +1,41 @@
+
+public int cube(int x){
+	int placeholder = x;
+	x = x * placeholder;
+	x = x * placeholder;
+	return x;
+}
+
+Write an Arduino function to return the cubed value of some number.
+
+int cube(int x){
+	int y = x;
+	int z = y * x;
+	int result = z * x;
+	return result;
+}
+
+Create the class, an object, and class constructor for class student
+
+class Student{
+	String name;
+	int grade;
+	boolean passing;
+	boolean work;
+	Student(int x, int y, String name){
+		if(this.work){
+			this.grade++;
+		}
+		if(this.grade >= 70){
+			this.passing = true;
+		}
+		
+	}
+}
+
+public Student student1;
+
+student1 = new Student(10, 10, "Eli");
+
+
+ 
